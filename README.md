@@ -7,7 +7,7 @@ My projects/prototypes collection
 ### 【2018-12】Digital sensory wheel 电子感官风味轮（合作项目）
 
 ### 【2019-1】Processing mini games 使用processing制作的三款迷你游戏
-#### 1. Warm Blooded 热血动物 #### 2. Blush 心动 #### 3. Mr. Pitrick 完美配方
+#### 1. Warm Blooded 热血动物 2. Blush 心动 3. Mr. Pitrick 完美配方
 
 ### 【2019-3】Soundscape BGM 乐景实验 交互式游戏背景音乐
 ### 【2019-4】Sound tembre interaction 音色交互实验
