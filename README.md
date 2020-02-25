@@ -7,7 +7,7 @@ My projects/prototypes collection
 ### 【2018-12】Digital sensory wheel 电子感官风味轮（合作项目）
 
 ### 【2019-1】Processing mini games 使用processing制作的三款迷你游戏
-#### What is this thing called science? 科学是什么？
+#### Warm Blooded 热血动物
 #### Blush 心动
 #### Mr. Pitrick 完美配方
 
