@@ -1,4 +1,4 @@
-information# Portfolio Jeannette 士杰作品集
+# Portfolio Jeannette 士杰作品集
 My projects/prototypes collection
 这个库存放了我就读媒体技术专业期间的项目稿件
 <br>
