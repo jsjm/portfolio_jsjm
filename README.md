@@ -46,7 +46,6 @@ This project used Arduino, distance sensors, UV light and UV paint to create an 
 ### 【2019-5】Remembrance 铭记
 Treasure hunt game on site. Discover the story of Mr. Bartholomew.<br>
 实景解谜游戏，游客根据散布在展场（废弃火车修理厂）的记忆碎片拼出主人公的回忆。
-
 <br>
 ### 【2019-11】Before the mirror 真假魔镜 （合作项目）
 Being an information firewall operator, the player filter fake news with the assistance of a magic mirror.<br>
