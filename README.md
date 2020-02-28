@@ -11,10 +11,10 @@ Sensory wheel is extensively used in user experience researches. This project pr
 ### 【2019-1】Processing mini games 使用processing（Java）制作的三款迷你游戏
 Course projects for programming and science philosophy courses (~1.5 credits).<br>
 编程课与科学哲学课项目，音乐和图形均不使用外部素材，由编码完成。
-#### 1. Warm Blooded 热血动物
+#### 1. Warm Blooded 温血动物
 Experience human's curiosity about temperature. Story designed after reading the book "What is this thing called science?". <br>
 环境不仅让人类产生应激反应，还使人思考。人对真理的探求没有止境，科学只是探索的一种方式，一种信仰。玩家需移动角色对环境进行探索，不同选择指向不同结局。
-#### 2. Blush 心动
+#### 2. Blush 泛红
 Music game, players click the blushing hearts based on pitch and rhythms.<br>
 心随乐动，玩家需根据音乐敏捷击中相应红心。
 #### 3. Mr. Pitrick 完美配方
