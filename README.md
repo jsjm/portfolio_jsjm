@@ -24,6 +24,7 @@ Make a soup based on Mr. Pitrick's daily preference. Players add ingredients to 
 ### 【2019-3】Soundscape BGM 乐景实验 交互式游戏背景音乐
 Using different timbre on the same melody to create different environmental experience. Users can explore different area with different music feeling without interrupting the BGM.<br>
 通过在同一旋律中使用不同音色和音效，在不打断背景音乐的同时让玩家体验到地图环境的变化。
+QQ音乐demo链接：http://url.cn/5Dy7xfO
 <br>
 ### 【2019-4】Sound tembre interaction 音色交互实验
 Based on timbre analysis, translate input's timbre to a sudo-robot language.<br>
