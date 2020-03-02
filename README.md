@@ -57,6 +57,6 @@ Details in essays/documentations.
 ### 【2018-11】[ASMR preference mapping 颅内高潮视频观众喜好研究（合作项目）](https://github.com/jsjm/portfolio_jsjm/blob/master/ASMR_drivers_of_liking.pdf)
 ### 【2018-12】[Crypticalism art (essay) 论密码艺术](https://github.com/jsjm/portfolio_jsjm/blob/master/crypticalism_art.pdf)
 ### 【2019-4】[Evolution of perceptual descriptive language (essay) 论形容用语进化发展](https://github.com/jsjm/portfolio_jsjm/blob/master/descriptive_language_evolution.pdf)
-### 【2019-5】Music x Virtual Instruments (essay) 论音乐技术与虚拟乐器
+### 【2019-5】[Music x Virtual Instruments (essay) 论音乐技术与虚拟乐器](https://github.com/jsjm/portfolio_jsjm/blob/master/musix_x_virtual_instruments.pdf)
 ### 【2019-6】[Are cats asocial? (poster) 论猫咪是不是真的高冷（合作项目）](https://github.com/jsjm/portfolio_jsjm/blob/master/are_cats_asocial.pdf)
 ### 【2019-7】[Speech Composition of Food Review Influencers 吃播用语成分研究](https://github.com/jsjm/portfolio_jsjm/blob/master/speech_compostion_food_influencers.pdf)
