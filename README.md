@@ -60,3 +60,5 @@ Details in essays/documentations.
 ### 【2019-5】[Music x Virtual Instruments (essay) 论音乐技术与虚拟乐器](https://github.com/jsjm/portfolio_jsjm/blob/master/musix_x_virtual_instruments.pdf)
 ### 【2019-6】[Are cats asocial? (poster) 论猫咪是不是真的高冷（合作项目）](https://github.com/jsjm/portfolio_jsjm/blob/master/are_cats_asocial.pdf)
 ### 【2019-7】[Speech Composition of Food Review Influencers 吃播用语成分研究](https://github.com/jsjm/portfolio_jsjm/blob/master/speech_compostion_food_influencers.pdf)
+### 【2020-5】[Sound Stimuli Perception of Dreamers(review) 声音信息对梦境的影响（文献阅评）]
+(https://github.com/jsjm/portfolio_jsjm/blob/master/sound_stimuli_in_dreams.pdf)
